@@ -1,4 +1,4 @@
-# PARES Token Smart Contract
+# Solidity Token Creation
 
 The main purpose of this code is to provide a practical way to test ones understanding of Solidity basics and token creation/minting. By interacting with this Solidity smart contract, users can reinforce their knowledge of Solidity fundamentals while gaining hands-on experience in creating and minting tokens. 
 
